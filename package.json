@@ -17,6 +17,7 @@
     "check-all": "npm run check-format && npm run check-lint && npm run check-types && npm run build"
   },
   "dependencies": {
+    "mongoose": "^6.5.2",
     "next": "12.2.2",
     "react": "18.2.0",
     "react-dom": "18.2.0",
